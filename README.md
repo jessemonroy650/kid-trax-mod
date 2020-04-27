@@ -9,3 +9,16 @@ Modification of the popular Kid Trax car for children (a toy) with various wifi-
 - the battery is the standard 6V battery it ships with
 
 Additional documentation will be available on blogs.
+
+## The Kid Trax Car
+
+https://kidtraxtoys.com/
+
+The ''Kid Trax'' Car (aka Battery-powered Ride-ons) is a vehicle intended for children 3 to 7 years old and is intended as a toy that a child may ride-in or ride-on. It is battery powered with working switches, levers, and pedals. The styles include cars, trucks, jeeps, & motorcycles; blue-tooth remote-control is available as an option with many models. Many vehicles are avaiable in 6 or 12.
+
+
+
+Year to year change in style and models should be expect. We used the Cooper Mini; see pictures.
+
+
+https://kidtraxtoys.com/pages/owners-manuals
