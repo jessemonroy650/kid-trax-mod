@@ -14,7 +14,7 @@ Additional documentation will be available on blogs.
 
 https://kidtraxtoys.com/
 
-The ''Kid Trax'' Car (aka Battery-powered Ride-ons) is a vehicle intended for children 3 to 7 years old and is intended as a toy that a child may ride-in or ride-on. It is battery powered with working switches, levers, and pedals. The styles include cars, trucks, jeeps, & motorcycles; blue-tooth remote-control is available as an option with many models. Many vehicles are avaiable in 6 or 12.
+The ''Kid Trax'' Car (aka Battery-powered Ride-ons) is a vehicle intended for children 3 to 7 years old and is intended as a toy that a child may ride-in or ride-on. It is battery powered with working switches, levers, and pedals. The styles include cars, trucks, jeeps, & motorcycles; blue-tooth remote-control is available as an option with many models. Many vehicles are avaiable in 6 or 12 volts.
 
 
 
